@@ -14,7 +14,8 @@
 		0718EF752AE3FE090043B496 /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0718EF742AE3FE090043B496 /* Destination.swift */; };
 		0718EF772AE402310043B496 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0718EF762AE402310043B496 /* EditDestinationView.swift */; };
 		0718EF792AE406680043B496 /* DestinationListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0718EF782AE406680043B496 /* DestinationListingView.swift */; };
-		0718EF7B2AE54C210043B496 /* Site.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0718EF7A2AE54C210043B496 /* Site.swift */; };
+		0718EF7B2AE54C210043B496 /* Sight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0718EF7A2AE54C210043B496 /* Sight.swift */; };
+		0718EF7D2AE55ADE0043B496 /* SightsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0718EF7C2AE55ADE0043B496 /* SightsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,7 +27,8 @@
 		0718EF742AE3FE090043B496 /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		0718EF762AE402310043B496 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 		0718EF782AE406680043B496 /* DestinationListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListingView.swift; sourceTree = "<group>"; };
-		0718EF7A2AE54C210043B496 /* Site.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Site.swift; sourceTree = "<group>"; };
+		0718EF7A2AE54C210043B496 /* Sight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sight.swift; sourceTree = "<group>"; };
+		0718EF7C2AE55ADE0043B496 /* SightsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SightsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +64,8 @@
 				0718EF662AE3FDB30043B496 /* iTourApp.swift */,
 				0718EF682AE3FDB30043B496 /* ContentView.swift */,
 				0718EF782AE406680043B496 /* DestinationListingView.swift */,
-				0718EF7A2AE54C210043B496 /* Site.swift */,
+				0718EF7C2AE55ADE0043B496 /* SightsView.swift */,
+				0718EF7A2AE54C210043B496 /* Sight.swift */,
 				0718EF762AE402310043B496 /* EditDestinationView.swift */,
 				0718EF742AE3FE090043B496 /* Destination.swift */,
 				0718EF6A2AE3FDB40043B496 /* Assets.xcassets */,
@@ -150,10 +153,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0718EF692AE3FDB30043B496 /* ContentView.swift in Sources */,
+				0718EF7D2AE55ADE0043B496 /* SightsView.swift in Sources */,
 				0718EF672AE3FDB30043B496 /* iTourApp.swift in Sources */,
 				0718EF752AE3FE090043B496 /* Destination.swift in Sources */,
 				0718EF772AE402310043B496 /* EditDestinationView.swift in Sources */,
-				0718EF7B2AE54C210043B496 /* Site.swift in Sources */,
+				0718EF7B2AE54C210043B496 /* Sight.swift in Sources */,
 				0718EF792AE406680043B496 /* DestinationListingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
